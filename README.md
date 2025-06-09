@@ -23,7 +23,7 @@ La sepsis es una afección potencialmente mortal causada por una respuesta desco
   - Visualizar métricas de rendimiento (AUC-ROC, precisión, sensibilidad, F1-score) y curvas ROC.
   - Recibir alertas para pacientes de alto riesgo (>70% de probabilidad de mortalidad).
 - **Despliegue**: Alojado en Hugging Face Space: [SepsisMortalityPrediction](https://huggingface.co/spaces/Irene082/SepsisMortalityPrediction).
-- **Repositorio**: Todo el código y entregables están disponibles aquí: [Sepsis-Mortality-Prediction](https://github.com/tu-usuario/Sepsis-Mortality-Prediction) (reemplaza `tu-usuario` con tu nombre de usuario de GitHub).
+- **Repositorio**: Todo el código y entregables están disponibles en GitHub: [Sepsis-Mortality-Prediction](https://github.com/Ire082/Sepsis-Mortality-Prediction).
 
 ## Arquitectura del sistema
 El sistema sigue un flujo modular:
